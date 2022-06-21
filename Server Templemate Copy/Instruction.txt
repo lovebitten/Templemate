@@ -1,0 +1,15 @@
+** Distributed & Created by DVRKZ ; og creator: s ᴀ ᴅ ᴛ ᴇ ᴇ ɴ#1800**
+
+1. Retrieve your token
+2. Set your wanted prefix
+3. Go to the server you want to copy, chose random chat and write "copyserver"
+
+<prefix>serverycopy
+
+example:
+
+$servercopy
+
+
+* * update: 21.06.2022 **
+ - Repaired bot randomly ignoring "copyserver" command & logging off account.
